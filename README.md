@@ -1,6 +1,6 @@
-# Brain MRI Modality Translation with Pix2Pix GAN
+# Brain MRI Modality Translation with Customed GANs
 
-This project trains a Pix2Pix GAN (U-Net generator + PatchGAN discriminator)
+This project builds and trains a pix2pix styled conditional GAN (U-Net generator + PatchGAN discriminator)
 to synthesize T2-weighted (T2w) 2D brain MRI images from T1-normalized (T1n) images using
 the BraTS 2023 dataset.
 
