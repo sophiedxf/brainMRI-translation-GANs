@@ -8,7 +8,7 @@ the BraTS 2023 dataset.
 
 Below is an example showing the model’s inference output (T1 → Real T2 → Generated T2):
 
-<p align="center"> <img src="images/example.png" width="800"> </p>
+<p align="center"> <img src="images/example.png" width="600"> </p>
 
 ## Project structure
 
