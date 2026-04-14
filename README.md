@@ -1,4 +1,4 @@
-# Brain MRI Modality Translation with Customed GANs
+# Brain MRI Modality Translation with Customised GANs
 
 This project builds and trains a pix2pix styled conditional GAN (U-Net generator + PatchGAN discriminator)
 to synthesize T2-weighted (T2w) 2D brain MRI images from T1-normalized (T1n) images using
